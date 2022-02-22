@@ -118,7 +118,7 @@ hapi:
     #    reuse_cached_search_results_millis: 60000
     tester:
       home:
-        name: iHRIS
+        name: NHWR
         server_address: http://localhost:8080/hapi/fhir/
         refuse_to_fetch_third_party_urls: false
         fhir_version: R4
